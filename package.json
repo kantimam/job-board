@@ -1,5 +1,6 @@
 {
   "name": "job-board",
+  "homepage": "https://kantimam.github.io/job-board",
   "version": "1.0.0",
   "description": "ReDi Job Board",
   "main": "index.js",
@@ -21,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/lopis/job-board/issues"
   },
-  "homepage": "https://github.com/lopis/job-board#readme",
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/preset-react": "^7.13.13",
