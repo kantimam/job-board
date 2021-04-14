@@ -5,7 +5,7 @@ import PageLayout from '../layouts/PageLayout';
 function AddJobPage(): ReactElement {
   return (
     <PageLayout>
-      <Container>to be implemented</Container>
+      <Container>to be implemented a</Container>
     </PageLayout>
   );
 }
