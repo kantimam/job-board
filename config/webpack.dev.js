@@ -7,6 +7,9 @@ const copyPlugin = new CopyPlugin({
     {
       from: 'mocks',
     },
+    {
+      from: '404.html'
+    }
   ],
 });
 
