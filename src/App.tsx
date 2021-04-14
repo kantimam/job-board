@@ -17,7 +17,7 @@ const App = () => {
   return (
     <ThemeProvider theme={ darkMode ? darkTheme : lightTheme }>
 
-      <BrowserRouter>
+      <BrowserRouter basename="/job-board">
         <CssBaseline />
         <Switch>
           <Route path="/job/:jobId">
